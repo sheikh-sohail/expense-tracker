@@ -6,9 +6,9 @@ A personal finance Android application built with **Java** and **SQLite** that h
 
 ## 📱 Screenshots
 
-> Home Screen | Add Transaction | Statistics
+> Create Account | Login Screen | Home Screen | Add Expense
 
-*(Add your screenshots here)*
+<img width="720" height="1600" alt="Create Account" src="https://github.com/user-attachments/assets/027010b0-b491-486c-bacd-af0451b25429" /> <img width="720" height="1600" alt="Login Screen" src="https://github.com/user-attachments/assets/49e67bf0-7a6b-4af0-8d20-8db342a5cf75" /> <img width="1080" height="2400" alt="Home Screen" src="https://github.com/user-attachments/assets/3eedb09d-4d6f-4a3d-aeee-b3667c2f617b" /> <img width="1080" height="2400" alt="Add Expense" src="https://github.com/user-attachments/assets/6d28637f-67c4-4ba1-8f6f-da6fc100fd01" />
 
 ---
 
@@ -104,14 +104,6 @@ app/src/main/
    ```
    Click Sync Now → Run on emulator or device
    ```
-
----
-
-## 📦 Dependencies
-
-```gradle
-implementation 'com.github.PhilJay:MPAndroidChart:v3.1.0'
-```
 
 ---
 
