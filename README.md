@@ -8,7 +8,7 @@ A personal finance Android application built with **Java** and **SQLite** that h
 
 > Create Account | Login Screen | Home Screen | Add Expense
 
-<img width="360" height="800" alt="Create Account" src="https://github.com/user-attachments/assets/027010b0-b491-486c-bacd-af0451b25429" /> <img width="360" height="800" alt="Login Screen" src="https://github.com/user-attachments/assets/49e67bf0-7a6b-4af0-8d20-8db342a5cf75" /> <img width="360" height="800" alt="Home Screen" src="https://github.com/user-attachments/assets/3eedb09d-4d6f-4a3d-aeee-b3667c2f617b" /> <img width="360" height="800" alt="Add Expense" src="https://github.com/user-attachments/assets/6d28637f-67c4-4ba1-8f6f-da6fc100fd01" />
+<img width="180" height="400" alt="Create Account" src="https://github.com/user-attachments/assets/027010b0-b491-486c-bacd-af0451b25429" /> <img width="180" height="400" alt="Login Screen" src="https://github.com/user-attachments/assets/49e67bf0-7a6b-4af0-8d20-8db342a5cf75" /> <img width="180" height="400" alt="Home Screen" src="https://github.com/user-attachments/assets/3eedb09d-4d6f-4a3d-aeee-b3667c2f617b" /> <img width="180" height="400" alt="Add Expense" src="https://github.com/user-attachments/assets/6d28637f-67c4-4ba1-8f6f-da6fc100fd01" />
 
 ---
 
