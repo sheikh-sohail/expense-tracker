@@ -81,7 +81,7 @@ app/src/main/
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/expense-tracker.git
+   git clone https://github.com/sheikh-sohail/expense-tracker.git
    ```
 
 2. **Open in Android Studio**
