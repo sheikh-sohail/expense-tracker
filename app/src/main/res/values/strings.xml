@@ -1,0 +1,65 @@
+<resources>
+    <string name="app_name">ExpenseTracker</string>
+    <string name="total_balance">Total Balance</string>
+    <string name="income">Income</string>
+    <string name="expense">Expense</string>
+    <string name="recent_transactions">Recent Transactions</string>
+    <string name="see_all">See all</string>
+    <string name="add_expense">Add Expense</string>
+    <string name="statistics">Statistics</string>
+    <string name="top_spending">Top Spending</string>
+    <string name="transaction_icon">Transaction category icon</string>
+    <string name="back">Back</string>
+    <string name="more_options">More options</string>
+    <string name="home">Home</string>
+    <string name="name">Name</string>
+    <string name="amount">Amount</string>
+    <string name="date">Date</string>
+    <string name="currency_hint">₹</string>
+    <string name="select_date">Select date</string>
+    <string name="amount_default">₹0.00</string>
+    <string name="notifications">Notifications</string>
+    <string name="income_icon">Income</string>
+    <string name="expense_icon">Expense</string>
+
+    <!-- Login Strings -->
+    <string name="login_app_name">Expense Tracker</string>
+    <string name="login_subtitle">Manage your money smartly</string>
+    <string name="welcome_back">Welcome Back!</string>
+    <string name="login_continue">Login to continue</string>
+    <string name="label_username">USERNAME</string>
+    <string name="hint_username">Enter username</string>
+    <string name="label_password">PASSWORD</string>
+    <string name="hint_password">Enter password</string>
+    <string name="remember_me">Remember Me</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="login_button">Login</string>
+    <string name="dont_have_account">Don\'t have an account? </string>
+    <string name="register">Register</string>
+    <string name="app_logo_description">App Logo</string>
+
+    <!-- Register Strings -->
+    <string name="create_account">Create Account</string>
+    <string name="register_subtitle">Start tracking your expenses</string>
+    <string name="label_full_name">FULL NAME</string>
+    <string name="hint_full_name">Enter your name</string>
+    <string name="hint_choose_username">Choose a username</string>
+    <string name="hint_create_password">Create a password</string>
+    <string name="label_confirm_password">CONFIRM PASSWORD</string>
+    <string name="hint_confirm_password">Confirm your password</string>
+    <string name="already_have_account">Already have an account? </string>
+
+    <!-- Expense Categories -->
+    <string-array name="expense_categories">
+        <item>Grocery</item>
+        <item>Shopping</item>
+        <item>Salary</item>
+        <item>Food</item>
+        <item>Transport</item>
+        <item>Health</item>
+        <item>Entertainment</item>
+        <item>Electricity</item>
+        <item>Rent</item>
+        <item>Other</item>
+    </string-array>
+</resources>
